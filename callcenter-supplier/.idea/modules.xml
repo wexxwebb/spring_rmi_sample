@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/callcenter-supplier.iml" filepath="$PROJECT_DIR$/.idea/modules/callcenter-supplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/callcenter-supplier_main.iml" filepath="$PROJECT_DIR$/.idea/modules/callcenter-supplier_main.iml" group="callcenter-supplier" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/callcenter-supplier_test.iml" filepath="$PROJECT_DIR$/.idea/modules/callcenter-supplier_test.iml" group="callcenter-supplier" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/callcenter-server.iml" filepath="$PROJECT_DIR$/.idea/modules/callcenter-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/callcenter-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/callcenter-server_main.iml" group="callcenter-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/callcenter-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/callcenter-server_test.iml" group="callcenter-server" />
+    </modules>
+  </component>
+</project>
